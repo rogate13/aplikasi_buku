@@ -1,0 +1,11 @@
+Dokumentasi Penggunaan Aplikasi:
+1. Hidupkan XAMPP (PHP v7.4) dan upload database pada folder aplikasi_buku/database
+2. Jalankan dengan localhost/aplikasi_buku
+3. Terkait fitur login, Anda mempunyai akun, maka masukkan username dan password Anda, jikalau Anda tidak punya akun, maka daftarkan akun Anda
+4. Pada fitur Tambah Buku, maka tekan tombol Tambah Buku, dengan mengisi judul, penulis dan tahun terbit
+5. Pada fitur Edit, jika Anda ingin mengubah buku, maka tekan Edit dan ubah sesuai ketentuan Anda
+6. Pada fitur Hapus, jika Anda ingin menghapus buku, maka tekan tombol Hapus pada target buku Anda
+7. Pada fitur Cari, masukkan judul buku dan urutkan berdasarkan keinginan Anda, seperti judul, penulis atau tahun. 
+
+Penjelasan Desain:
+Alasan memilih desain yang terkesan sederhana dengan tujuan untuk memermudah user untuk menguasai aplikasi ini. Adapun pemberian pewarnaan seperti pada tombol edit dengan warna kuning dan delete dengan warna merah agar user dapat mengingat dengan mudah membedakan penggunaan fitur – fitur yang ada.
